@@ -37,3 +37,12 @@ The model was built using TensorFlow and includes the following layers:
 
 ## **📈 Results & Performance**
 The model achieved a 99% validation accuracy, which indicates excellent performance in classifying the rice varieties. The high accuracy suggests that the model is effective in distinguishing between the different rice varieties based on their visual features.
+
+| Image | Predicted Class | Confidence |
+|-------|-----------------|------------|
+| ![image1](https://github.com/adhi1702/Rice_Variety_Classification/blob/main/test/Arborio/Arborio%20(11206).jpg) | Arborio | 1.00 |
+| ![image2](https://github.com/adhi1702/Rice_Variety_Classification/blob/main/test/Basmati/basmati%20(14788).jpg) | Basmati | 1.00 |
+| ![image3](https://github.com/adhi1702/Rice_Variety_Classification/blob/main/test/Jasmine/Jasmine%20(14305).jpg) | Jasmine | 0.95 |
+| ![image4](https://github.com/adhi1702/Rice_Variety_Classification/blob/main/test/Ipsala/Ipsala%20(12674).jpg) | Ipsala | 1.00 |
+| ![image4](https://github.com/adhi1702/Rice_Variety_Classification/blob/main/test/Karacadag/Karacadag%20(13843).jpg) | Karacadag | 0.99 |
+
